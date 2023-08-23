@@ -21,10 +21,7 @@ class audioaction:
         self.audioloop = audioloop
         self.footswitch_input= footswitch_input
         
-    def create_layer():
-        pass
-    
-    def end_layer():
+    def record_layer(audioloop):
         pass
     
     def play(layers):
